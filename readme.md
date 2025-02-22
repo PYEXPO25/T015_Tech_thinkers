@@ -122,13 +122,13 @@ Images to demonstrate the user interface:
 *Example pages:*
 
 1. *Landing Page:*
-   ![Landing Page Mockup](media/LoadingPage.png)
+   ![Landing Page Mockup](https://drive.google.com/file/d/15mWM3jL_0eJJxBHqN_BZxLk0xSpXUj9o/view?usp=drivesdk)
 
 2. *Dashboard:*
-   ![Dashboard Mockup](media/DashBoard.png)
+   ![Dashboard Mockup](https://drive.google.com/file/d/15uSnhtM0sYUxtJwAAkaC_4jSDIf_k__v/view?usp=drivesdk)
 
 3. *Analytics View:*
-   ![Analytics Mockup](media/Analytics.png)
+   ![Analytics Mockup](https://drive.google.com/file/d/15vh3g8S3gJhV4BxXPoIGjJFh0W1D6v27/view?usp=drivesdk)
 
 ---
 
@@ -138,9 +138,8 @@ Images to demonstrate the user interface:
 [Click here to view the PPT](https://drive.google.com/file/d/14pj252sxfdcPz32LfvdBfY59wq_zAxsW/view?usp=sharing)
 
 ### 🎥 Project Video
-[Click here to view the project demo video](insert-drive-link-here)
+[Click here to view the project demo video](https://drive.google.com/file/d/15f_ksBfhJsVxrY9_1JAt8FYurv1l_Q0f/view?usp=drivesdk)
 
 ### 📹 YouTube Link
-[Watch the project on YouTube](insert-youtube-link-here)
-
+[Watch the project on YouTube](https://youtu.be/v5evpktCxFs?si=6OJ4liOidBhvkhUp)
 ---

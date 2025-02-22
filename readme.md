@@ -4,34 +4,47 @@
 
 ## Problem Statement
 
-*Problem Statement ID – xxxxx*
+*Problem Statement ID – PY084*
 
 Formulate your problem statement clearly and concisely.
 
----
+An Apartment Maintenance Management System solve these problems by providing a
+digital platform .where residents can submit maintenance requests, track their status, and
+communicate easily with the management team. The system helps management assign tasks,
+monitor progress, and keep records of past maintenance work. This system ensures faster issue
+resolution, better communication, and smooth maintenance operations in the apartment.
 
 ## Overview
 
 Provide an overview of the project, its purpose, and what it aims to achieve along with proposed solution
 
----
+Proposed solution : 
+ The Apartment Maintenance Management System is a web-based application that allows
+residents to submit maintenance issues, admins to assign tasks, and staff to resolve them. It
+features secure login, issue tracking, real-time notifications, and online payment processing,
+ensuring efficient property management and faster issue resolution.
+Project outcome :
+ The Apartment Maintenance Management System enhances efficiency in property
+management by streamlining maintenance requests, tracking issue resolution, and automating
+payments. It improves communication between residents, admins, and staff, ensuring faster issue
+resolution,secure transactions, and better service management.
 
 ## Team Members
 
-*Team ID – xxxxx*
+*Team ID – T015*
 
 List your team members along with their roles.
 
-- *Member 1* - Team Leader
-- *Member 2* - Role
-- *Member 3* - Role
-- *Member 4* - Role
-- *Member 5* - Role
-- *Member 6* - Role
-- *Member 7* - Role
-- *Member 8* - Role
+- *R. PRAVEENASRI* - Team Leader
+- *S. RUDDHARA DEVI* - Backend developer
+- *V. SAMAYA KEERTHIKA* - Backend developer
+- *T. SRIMATHI* - Database
+- *M. TAMIZHMATHI* - Frontend developer
+- *K. UMAMAGESHWARI* - Frontend developer
+- 
 
-![Team Photo](media/team-photo.png)
+![Team Photo](![TECHTHINKERS](https://github.com/user-attachments/assets/ed24e696-9d17-4ba9-be3b-12e8663c1e87)
+)
 
 ---
 
@@ -39,10 +52,10 @@ List your team members along with their roles.
 
 List the technologies and tools used in the project. For example:
 
-- *Frontend:* HTML, CSS, JavaScript, ReactJS
-- *Backend:* Flask, Django
-- *Database:* MongoDB, MySQL
-- *Other Tools:* Docker, Git, TensorFlow
+- *Frontend:* HTML, CSS, JavaScript
+- *Backend:*Python, Django
+- *Database:* , MySQL
+- *Other Tools:*  Git, Live server
 
 ---
 
@@ -122,7 +135,7 @@ Images to demonstrate the user interface:
 ## Resources
 
 ### 📄 PowerPoint Presentation
-[Click here to view the PPT](insert-drive-link-here)
+[Click here to view the PPT](https://drive.google.com/file/d/14pj252sxfdcPz32LfvdBfY59wq_zAxsW/view?usp=sharing)
 
 ### 🎥 Project Video
 [Click here to view the project demo video](insert-drive-link-here)

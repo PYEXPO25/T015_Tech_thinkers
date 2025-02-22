@@ -43,8 +43,8 @@ List your team members along with their roles.
 - *K. UMAMAGESHWARI* - Frontend developer
 - 
 
-![Team Photo](![TECHTHINKERS](https://github.com/user-attachments/assets/ed24e696-9d17-4ba9-be3b-12e8663c1e87)
-)
+![Team Photo](https://github.com/user-attachments/assets/7ff6f6a1-2a1c-49c5-beee-353df81ab0f3)
+
 
 ---
 
